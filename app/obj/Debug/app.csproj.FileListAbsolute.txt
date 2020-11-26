@@ -1,0 +1,10 @@
+D:\NguyenThanhLong\app\app\bin\Debug\app.exe.config
+D:\NguyenThanhLong\app\app\bin\Debug\app.exe
+D:\NguyenThanhLong\app\app\bin\Debug\app.pdb
+D:\NguyenThanhLong\app\app\obj\Debug\app.csprojAssemblyReference.cache
+D:\NguyenThanhLong\app\app\obj\Debug\app.Form1.resources
+D:\NguyenThanhLong\app\app\obj\Debug\app.Properties.Resources.resources
+D:\NguyenThanhLong\app\app\obj\Debug\app.csproj.GenerateResource.cache
+D:\NguyenThanhLong\app\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+D:\NguyenThanhLong\app\app\obj\Debug\app.exe
+D:\NguyenThanhLong\app\app\obj\Debug\app.pdb
